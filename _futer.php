@@ -1,3 +1,3 @@
 <div id="copy">
-    <p>Copyright &copy; Lineweb</p>
+    <p>Copyright &copy; Vladan Ilić</p>
 </div>
